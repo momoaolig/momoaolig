@@ -15,8 +15,8 @@ Hi there, I'm Max 👋
 ![wandb](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=wandb&logoColor=black)
 <!-- Add more as needed -->
 
-📈 GitHub Stats
+<!-- 📈 GitHub Stats
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=momoaolig&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default) -->
 
 
