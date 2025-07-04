@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm Max 👋
 
-<!--
-**momoaolig/momoaolig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+-  🎓I finished my master degree in computer science at **the University of Colorado Boulder** 
+- 🔭 I’m currently looking for full-time positions as a **Computer Vision Engineer**
+- 📫 How to reach me: **momoaolig@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![wandb](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=wandb&logoColor=black)
+<!-- Add more as needed -->
+
+📈 GitHub Stats
+
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+
+
